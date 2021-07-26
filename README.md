@@ -2,15 +2,6 @@
 
 
 
-<div align="center"><img src="https://i.loli.net/2019/05/09/5cd3c057cdee2.jpg" width="600px"/> </div>
-
-
-- 小站是本人用来做复习的，不做其他用途。内容包含原创和其他作者的文章，转载文章均已注明出处，如有遗漏或侵权，请联系我删除。
-
-
-
-## 目录
-
 
 
 | Awesome                                            | Interview                       | Algorithm            | DataStructure                 | 集合                            | Sql                   | Others                 |
@@ -40,12 +31,3 @@
 作者：[crossoverJie](https://github.com/crossoverJie), 笔记：[JCSprout](https://crossoverjie.top/JCSprout/#/)
 
 笔记：[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
-
-
-
-## 联系方式
-
-[GitHub](https://www.github.com/Sctwang)
-
-[Email](mailto:mortre@163.com)
-

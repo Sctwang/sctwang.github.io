@@ -9,6 +9,7 @@
   - [剑指Offer](interview/Java剑指offer.md)
   - [Java资源](interview/Java资源.md)
   - [MySQL优化](interview/MySQL优化看这一篇就够了.md)
+  - [JavaGuide - Interview](pdf/v4.0-JavaGuide-interview.pdf)
   
 - Algorithm
   - [GCD](others/gcd.md)
